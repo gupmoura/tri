@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main()
+{
+    double altura, base, area;
+    printf("passa a altura e a base pra ca vagabundo\n");
+    scanf("%f %f", &altura, &base);
+}
